@@ -8,7 +8,7 @@ _Data as of 18 November 2026. Numbers come from the project's scripts and from t
 ## 1. Summary
 
 - **Question:** NPPA publishes, company by company, the money it says drug makers owe for selling medicines above government ceiling prices. Do listed companies disclose the same exposure in their annual reports?
-- **Data:** 30 NPPA company-wise overcharging lists (March 2017 to March 2026, including one list recovered from an undated PDF by reading its own text, taken from 58 crawled files), the FY2025-26 annual reports of the 11 listed companies with the largest NPPA dues (Sanofi: calendar year 2025), stock prices, stock-exchange filings and US SEC filings.
+- **Data:** 30 NPPA company-wise overcharging lists (March 2017 to March 2026, including one list recovered from an undated PDF by reading its own text, taken from 58 crawled files), the FY2025-26 annual reports of 11 large listed companies chosen from the top of NPPA's list: the 10 listed companies with the largest NPPA dues, plus Ipca (Sanofi: calendar year 2025), stock prices, stock-exchange filings and US SEC filings.
 - **Main finding:** 6 of 11 companies show less than NPPA claims, or nothing at all, without explaining why (Sun Pharma, Zydus, Dr. Reddy's, Sanofi, Lupin, Ipca). 4 match NPPA or explain the difference (Cipla, AstraZeneca, Pfizer, GSK), and 1 shows more than NPPA (Wockhardt). The best and worst cases sit side by side: Cipla explains its ₹3,577 crore exposure line by line, while Lupin and Ipca do not mention NPPA anywhere.
 - **Why it matters for investors:** disclosure follows materiality. Every company whose NPPA claim is above about 10% of a year's profit gives a figure for it (Cipla 92.6%, AstraZeneca 84.7%). Every company below 7% is in the unexplained group (Sun 6.8%, Dr. Reddy's about 3.5%, Zydus 3.0%, Ipca 2.8%, Lupin 1.4%). That is allowed by materiality rules, but it means that for about half the companies, NPPA's public list is the only place an investor can see the claim.
 - **International angle:** only AstraZeneca's UK parent ever put a number on an NPPA demand in its US filings (about $21 million plus interest for Tagrisso). It matches both the Indian company (₹157.39 crore) and NPPA (₹158.75 crore). Pfizer Inc., Sanofi, GSK plc and Abbott never name NPPA. Materiality hides the claim at two levels: small claims drop out of Indian reports, and Indian claims drop out of global parents' reports.
@@ -191,12 +191,7 @@ AstraZeneca gives the cleanest result in the project. Its UK parent disclosed th
 - Few market events → event study is illustrative, not statistical proof.
 - This is research, not legal or investment advice.
 
-## 9. Resume bullet points
-- Built a Python pipeline (PyMuPDF, Tesseract OCR, pandas) that turned about 2,300 NPPA PDFs into a clean dataset of 34 overcharging lists (2017–2026); removed 232 duplicate records and validated totals against Parliament's figure (within 1.14%).
-- Reconciled NPPA's ₹8,526 crore of overcharging claims with the Ind AS 37 disclosures of 11 listed pharma companies; found that 6 disclose less or nothing without explanation, and that disclosure tracks materiality (above 10% of profit: always a figure; below 7%: never fully explained).
-- Ran a market-model event study of NPPA notices and compared Indian disclosures with foreign parents' SEC filings, finding a three-way match for AstraZeneca and silence from other global parents.
-
-## Sources
+## 9. Sources
 - NPPA – Status of Overcharging Cases (lists on nppa.gov.in), including the list up to March 2026: https://nppa.gov.in/storage/uploads/pdf/b-status-of-overcharging-cases-upto-march-2026-a14044926da64a8d44a8e9ca865f78d1.pdf
 - Company annual reports FY2025-26 (see data/input/annual_reports.csv):
   - Cipla: https://www.cipla.com/sites/default/files/Cipla-Annual-Report-FY2025-26.pdf

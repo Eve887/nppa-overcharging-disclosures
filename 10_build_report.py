@@ -105,12 +105,7 @@ regulators publish such data, e.g. whether any regulator publishes company-wise 
 - Few market events → event study is illustrative, not statistical proof.
 - This is research, not legal or investment advice.
 
-## 9. Resume bullet points (edit to your final numbers)
-- Built a Python pipeline that crawled ~2,500 NPPA documents, OCR'd scans and parsed {len(summ) if summ is not None else 'N'} overcharging lists (2019–2026) into a company-level panel.
-- Reconciled NPPA's company-wise overcharging dues with {n_checked} listed pharma companies' Ind AS 37 disclosures; found {big} with large unexplained gaps or no disclosure.
-- Measured financial materiality and share-price reaction (market-model event study) to NPPA demand notices; compared with parent-company SEC filings.
-
-## Sources
+## 9. Sources
 - NPPA – Status of Overcharging Cases (lists on nppa.gov.in)
 - Company annual reports (see data/input/annual_reports.csv)
 - PRS Legislative Research – summary of the Standing Committee report on NPPA (Aug 2026)
