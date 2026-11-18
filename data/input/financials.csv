@@ -1,0 +1,12 @@
+﻿nse_symbol,fy,revenue_crore,net_profit_crore,net_worth_crore,basis,source_page,notes
+CIPLA,FY2025-26,28162.59,3861.74,34520.24,consolidated,pp. 334-335,
+SUNPHARMA,FY2025-26,58462.04,11508.65,83879.74,consolidated,pp. 239-240,Rs million / 10
+ASTRAZEN,FY2025-26,2275.58,187.52,872.79,standalone (no subsidiaries),pp. 136-137,Rs million / 10
+DRREDDY,FY2025-26,33593.30,4246.60,38045.70,consolidated,"pp. 111-112 (Consolidated Balance Sheet, Consolidated Income Statements)","Rs million / 10. IFRS consolidated TOTAL figures (including non-controlling interests): profit for the year Rs42,466 million, total equity Rs380,457 million. Previously used the owners-only column (profit Rs42,850m, equity Rs377,063m) - corrected to the total column to match the basis used for Cipla."
+ZYDUSLIFE,FY2025-26,27148.40,5123.50,29582.20,consolidated,pp. 398-399,Rs million / 10
+PFIZER,FY2025-26,2519.65,722.43,4202.90,standalone (no subsidiaries),pp. 170-171,
+WOCKPHARMA,FY2025-26,3373,199,5281,consolidated,pp. 58-59,"TOTAL figures (including non-controlling interests). Previously used the owners-only column (profit Rs213 cr, equity Rs4,940 cr) - corrected to the total column to match the basis used for Cipla."
+LUPIN,FY2025-26,27958.03,5355.47,22513.37,consolidated,pp. 318-319,"Rs million / 10. TOTAL figures (including non-controlling interests). Previously used the owners-only column (profit Rs5,332.84 cr, equity Rs22,448.27 cr) - corrected to the total column to match the basis used for Cipla."
+SANOFI,CY2025,1837.40,326.70,749.20,standalone (no subsidiaries),pp. 158-159,Rs million / 10; year ended 31 Dec 2025
+IPCALAB,FY2025-26,9646.33,1183.78,9524.06,consolidated,pp. 186-187,"TOTAL figures (including non-controlling interests). Previously used the owners-only column (profit Rs1,141.12 cr, equity Rs8,063.81 cr) - corrected to the total column to match the basis used for Cipla."
+GLAXO,FY2025-26,3821.67,1035.98,2267.42,consolidated,pp. 178-179,Rs lakh / 100

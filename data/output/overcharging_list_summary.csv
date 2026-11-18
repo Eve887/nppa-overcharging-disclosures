@@ -1,0 +1,59 @@
+﻿file,list_date,date_in_pdf,date_in_file_name,unit_in_pdf,kind,case_rows,rows_to_review,outstanding_total_crore_parsed,nppa_printed_total_crore,difference_crore,status,duplicate_rows_removed,duplicate_crore_removed
+5139667ec09b__stmtstmtpdf-7609bc8cceff6d3b290a1ab518405b90.pdf,,,,lakh,company-wise list,1711,1711,5543.26,,,ok,2.0,3.41
+50d3e424e0f8__32pdf-49a9d1e46a80960acc0e1fbe42c9b773.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+bdad36b65d8f__27pdf-afcdf0fbc80aeea016066a33e56aa465.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+4651fea57d5f__34pdf-844105d70aad0a4838c647dad877d453.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+41b75fb99d49__26pdf-e6bdcd03658f8fdfdda43502635aa9d7.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+e0f70bce0084__23pdf-19f4751b04b76134068d529010251233.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+3cb5c3a5c5f5__29-ipdf-22fe166e2bbaed03bae524e7bdb276e2.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+9a901f5a931f__31pdf-cc83b11cb4d5eef5a2d9a6077a3ca8e8.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+7937ee3ce4cb__36pdf-e64e187fa08b2d6ad5cf08465c8456c5.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+7699fcf64d95__38pdf-204627c5a11125a152f81bcbed75df41.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+24f1392ba94d__35pdf-94c1c36f3e3f8f1f656d1d11687304fa.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+7a0fb47bd61c__29-iipdf-87cd947f028ae78f8d4382dae91c1587.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+1bbc2fcbe98e__25pdf-381e741a1dd3271d75a177976218e8b0.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+7b85c702a95a__64pdf-f093282fcd625a6e1daa84432d3df92b.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+7e89949ccc71__33pdf-4fdbd6db6a3801b09295c50006ce180a.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+116ae0332209__a994d30752d8201cca0a1dda4bf9b04c.pdf,,,,lakh,company-wise list,324,0,3193.77,,,ok,0.0,0.0
+0bd9ca4335a1__43pdf-8a8f0ec9106b8589f9cde8a87362d6a6.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+abd01167e587__Detailed-Sheet-latestpdf-8f4edb14bc39d070ccd39fd8331c7df5.pdf,,,,lakh,company-wise list,908,7,8182.62,,,ok,3.0,109.07
+9fd0d25b1ab8__28pdf-814285e2e7ca2800399d1c087afd65c5.pdf,,,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+2cd66c3d7b7f__stmt-22-11-2016pdf-60d84b0fadd807908776304fdd3ab75c.pdf,2016-11-22,,2016-11-22,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+41bd8079c9c4__stmt-31-12-2016pdf-0553bd04e7bb1123a8efc681ea31f6a1.pdf,2016-12-31,,2016-12-31,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+70a0d4265c7c__stmt-14-03-2017pdf-350e4033d85e47d413c1875c9608f119.pdf,2017-03-14,,2017-03-14,lakh,company-wise list,1525,1525,4366.42,,,ok,1.0,-0.0
+ad615fc503d9__stmt-11-04-2017pdf-842e592542ef91a66ce265dc6b4ec431.pdf,2017-04-11,,2017-04-11,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+97b38ff1c0f4__stmt-30-05-2017pdf-5a4c4b3731d63dc72342a70b83dd74d4.pdf,2017-05-30,,2017-05-30,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+132176d9e30b__stmt-05-07-2017pdf-8910afb1386107138c6fd8be0521f240.pdf,2017-07-05,,2017-07-05,crore,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+3de56b4834f2__stmt-03-08-2017pdf-05887308bfb2b3cd93c93ed3979973bc.pdf,2017-08-03,,2017-08-03,lakh,company-wise list,1685,18,5493.09,,,ok,2.0,19.31
+4cc885cde70e__stmt-11-10-2017pdf-8bfd5a83b5840f69f9679c8ea5f3d7f6.pdf,2017-10-11,,2017-10-11,lakh,company-wise list,1718,34,5045.3,,,ok,5.0,186.61
+8b69d6b9713b__stmt-03-11-2017pdf-73f8748def8cf36b73a2da92c2eb6e69.pdf,2017-11-03,,2017-11-03,lakh,company-wise list,1719,132,5025.6,,,ok,6.0,2.43
+3b6601b4dfc7__62pdf-b18ce3cef1fb530f1b1b96d10273f664.pdf,2017-11-30,2017-11-30,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+a32ff1d4fa93__stmt-14-12-2017pdf-a71dbe7bd9aac6d3dc0ca5695dee592b.pdf,2017-12-14,,2017-12-14,lakh,company-wise list,1729,131,5042.13,,,ok,1.0,-0.0
+07f7152ec7e9__63pdf-ad0cb0e6de0609eb4c3a28b85648a984.pdf,2017-12-31,2017-12-31,,lakh,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+19009e35ebaf__stmt-21-02-2018pdf-de8a5e2a8a45cf600ce8f93919cc0b78.pdf,2018-02-21,,2018-02-21,lakh,company-wise list,1779,30,5254.89,,,ok,10.0,7.67
+1ce958b36f80__stmt-22-03-2018pdf-15494cdd6aac2ccb8848f11c21651b50.pdf,2018-03-22,,2018-03-22,lakh,company-wise list,1783,36,5179.88,,,ok,4.0,22.97
+5542a5a13e3f__stmt-19-04-2018pdf-ced734daacf2780083e60c8514a622b5.pdf,2018-04-19,,2018-04-19,lakh,company-wise list,1765,6,5163.96,,,ok,1.0,-0.0
+7ee8a7f786cd__stmt-21-05-2018pdf-74b628453de53a6bda2f08e562ac7b5c.pdf,2018-05-21,,2018-05-21,lakh,company-wise list,1807,9,5250.56,,,ok,8.0,6.92
+58cd3e506780__stmt-21-06-2018pdf-a513625c2a3240f8ffb2911eeabf0dd6.pdf,2018-06-21,,2018-06-21,lakh,company-wise list,1822,41,5301.85,,,ok,5.0,88.45
+b72a8fee5fe7__stmt-30-07-2018pdf-3b785dd82d90bd04a7f8dced7a126166.pdf,2018-07-30,,2018-07-30,lakh,company-wise list,1832,23,5284.07,,,ok,4.0,104.56
+b5a038d0a01f__stmt-01-11-2018pdf-03211f9539238b182ce0e128ec681840.pdf,2018-11-01,,2018-11-01,lakh,company-wise list,1936,61,5515.77,,,ok,58.0,105.4
+ca722aa56c99__stmt-07-12-2018pdf-fd73666615c9ac59e07e9e9f464c2426.pdf,2018-12-07,,2018-12-07,lakh,company-wise list,1957,38,5446.29,,,ok,31.0,116.99
+de385280bcce__stmt-31-12-2018pdf-f6fb973e43c1bffcdc8a9070c78a1cee.pdf,2018-12-31,,2018-12-31,lakh,company-wise list,2000,58,5421.73,,,ok,43.0,23.21
+aae51fb7cefd__Overcharging-StatementMarch-2019pdf-18c7d18370c465fa6afc622d994bc6e1.pdf,2019-03-31,,2019-03-31,lakh,company-wise list,2013,129,5443.14,,,ok,8.0,13.49
+625e7a496843__Overcharging-Statement-upto-June-2019pdf-a48e031847d1c24f9e727b9a5cc10e32.pdf,2019-06-30,2019-06-30,2019-06-30,lakh,company-wise list,2051,129,5489.82,,,ok,5.0,0.15
+5a497947129d__Detailed-Statement-of-Overcharging-Cases-upto-October-2019pdf-03a56c1fc35d0a732bded456e0d11e17.pdf,2019-10-31,2019-10-31,2019-10-31,lakh,company-wise list,2096,138,5618.28,,,ok,9.0,27.28
+3a616777ce39__Status-of-Overcharging-cases-upto-Dec-2019pdf-d72ebb7db374f4e70ca0252f675753df.pdf,2019-12-31,2019-12-31,2019-12-31,lakh,company-wise list,2059,265,5475.3,,,ok,5.0,0.6
+aa79fb1ed0a0__Status-of-Overcharging-Cases-upto-March-2020pdf-01ff2cff9019c6e1e3c988e9803c5be1.pdf,2020-03-31,2020-03-31,2020-03-31,lakh,company-wise list,2120,285,5569.33,,,ok,21.0,53.64
+0811708a315e__Consolidated-Website-Data-upto-March-2021pdf-7dcfeab02224d121a7f146e6c4690ef5.pdf,2021-03-31,,2021-03-31,crore,no company table found (maybe a year-wise summary),0,0,0.0,,,ok,,
+738ff746bb83__Status-of-Overcharging-cases-upto-September-2021pdf-9719fa2e5453606ec1aa12d278359612.pdf,2021-09-30,,2021-09-30,lakh,company-wise list,910,3,8349.02,,,ok,0.0,0.0
+cce5f68f7349__Status-of-Overcharging-Cases-upto-March-2022pdf-00dd5f005a0467bc8e0aee8a3f54d65a.pdf,2022-03-31,,2022-03-31,lakh,company-wise list,919,0,8349.81,,,ok,0.0,0.0
+72687d77feee__Status-of-Overcharging-Cases-upto-Sep-2022.pdf,2022-09-30,,2022-09-30,lakh,company-wise list,933,1,8551.04,,,ok,0.0,0.0
+c9b553c90252__Status-of-Overcharging-Cases-upto-March-2023_2.pdf,2023-03-31,,2023-03-31,lakh,company-wise list,1038,2,8650.64,,,ok,0.0,0.0
+7efa340e739f__Status-of-Overcharging-Cases-upto-September-2023.pdf,2023-09-30,,2023-09-30,lakh,company-wise list,1045,2,8619.89,,,ok,0.0,0.0
+e04fd6fbe56c__Status-of-Overcharging-Cases-upto-march-2024pdf-93b1e0ab9c8fba24d8d492b5fd991144.pdf,2024-03-31,,2024-03-31,lakh,company-wise list,1077,2,8665.25,,,ok,0.0,0.0
+a6e94bcb9734__Status-of-Overcharging-Cases-upto-September-2024pdf-546f3ec368a1d13c5575e99903c77367.pdf,2024-09-30,,2024-09-30,lakh,company-wise list,1099,2,8664.94,,,ok,0.0,0.0
+8ff6d7c3e308__Status of Overcharging Cases upto March 2025.pdf,2025-03-31,,2025-03-31,lakh,company-wise list,0,0,0.0,,,NOT USED: another file has the same date (kept: 8b885808be02__Status of Overcharging Cases upto March 2025.pdf),0.0,0.0
+8b885808be02__Status of Overcharging Cases upto March 2025.pdf,2025-03-31,,2025-03-31,lakh,company-wise list,1134,2,8616.62,,,ok,0.0,0.0
+72b3f35e25e7__Status of Overcharging Cases upto September 2025.pdf,2025-09-30,,2025-09-30,lakh,company-wise list,1185,2,8623.34,,,ok,0.0,0.0
+ef26ee690737__Status of Overcharging Cases upto September 2025.pdf,2025-09-30,,2025-09-30,lakh,company-wise list,0,0,0.0,,,NOT USED: another file has the same date (kept: 72b3f35e25e7__Status of Overcharging Cases upto September 2025.pdf),0.0,0.0
+5c952cb714d6__b-status-of-overcharging-cases-upto-march-2026-a14044926da64a8d44a8e9ca865f78d1.pdf,2026-03-31,,2026-03-31,lakh,company-wise list,1181,2,8526.16,,,ok,0.0,0.0

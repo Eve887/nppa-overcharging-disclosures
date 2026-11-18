@@ -1,0 +1,10 @@
+pymupdf
+pytesseract
+pillow
+psutil
+pandas
+openpyxl
+rapidfuzz
+requests
+yfinance
+matplotlib

@@ -1,0 +1,45 @@
+pattern,listed_company,nse_symbol,listed,note
+\bcipla\b,Cipla Ltd,CIPLA,yes,Includes lines jointly naming Cipla with Okasa or other firms
+^okasa,Okasa (promoter group of Cipla),,no,Unlisted; Cipla says joint Okasa demands are excluded under a business transfer agreement
+\bsun\s*(pharma|pharmaceutical)|^sun\b,Sun Pharmaceutical Industries Ltd,SUNPHARMA,yes,
+ranbaxy,Sun Pharmaceutical Industries Ltd,SUNPHARMA,yes,Ranbaxy merged into Sun Pharma in 2015
+astra\s*zeneca|^astra,AstraZeneca Pharma India Ltd,ASTRAZEN,yes,
+pfizer,Pfizer Ltd,PFIZER,yes,
+^wyeth,Pfizer Ltd,PFIZER,yes,Wyeth merged into Pfizer Ltd
+reddy,Dr. Reddy's Laboratories Ltd,DRREDDY,yes,
+zydus|cadila\s+health\s*care,Zydus Lifesciences Ltd,ZYDUSLIFE,yes,Cadila Healthcare is Zydus's old name; Cadila Pharmaceuticals is a DIFFERENT unlisted company
+wockhardt,Wockhardt Ltd,WOCKPHARMA,yes,
+lupin,Lupin Ltd,LUPIN,yes,
+sanofi|aventis,Sanofi India Ltd,SANOFI,yes,Financial year ends 31 December
+\bipca\b,Ipca Laboratories Ltd,IPCALAB,yes,Check lines where Ipca is only the marketer (e.g. Swiss Garnier Genexiaa (IPCA))
+glenmark,Glenmark Pharmaceuticals Ltd,GLENMARK,yes,
+alkem,Alkem Laboratories Ltd,ALKEM,yes,
+torrent,Torrent Pharmaceuticals Ltd,TORNTPHARM,yes,
+mankind,Mankind Pharma Ltd,MANKIND,yes,
+glaxo|\bgsk\b,GlaxoSmithKline Pharmaceuticals Ltd,GLAXO,yes,
+abbott india|abbot lab india|abbott lab india,Abbott India Ltd,ABBOTINDIA,yes,Abbott Healthcare Pvt Ltd is a separate unlisted Abbott company
+abbott healthcare,Abbott Healthcare Pvt Ltd,,no,Unlisted Abbott group company
+novartis,Novartis India Ltd,NOVARTIND,yes,Verify symbol
+\beris\b,Eris Lifesciences Ltd,ERIS,yes,
+j\.?\s?b\.?\s+chem,J.B. Chemicals & Pharmaceuticals Ltd,JBCHEPHARM,yes,
+aurobindo,Aurobindo Pharma Ltd,AUROPHARMA,yes,
+biocon,Biocon Ltd,BIOCON,yes,
+natco,Natco Pharma Ltd,NATCOPHARM,yes,
+ajanta,Ajanta Pharma Ltd,AJANTPHARM,yes,
+\bfdc\b,FDC Ltd,FDC,yes,
+granules,Granules India Ltd,GRANULES,yes,
+panacea,Panacea Biotec Ltd,PANACEABIO,yes,
+kopran,Kopran Ltd,KOPRAN,yes,
+indoco,Indoco Remedies Ltd,INDOCO,yes,
+alembic,Alembic Pharmaceuticals Ltd,APLLTD,yes,Verify: Alembic Ltd (ALEMBICLTD) is a different listed company
+merck|procter|p\s*&\s*g health,Procter & Gamble Health Ltd,PGHL,yes,Formerly Merck Ltd (India); verify each line
+marksans,Marksans Pharma Ltd,MARKSANS,yes,
+lyka,Lyka Labs Ltd,LYKALABS,yes,Verify symbol
+johnson|j\s*&\s*j,Johnson & Johnson Pvt Ltd,,no,Unlisted in India
+intas,Intas Pharmaceuticals Ltd,,no,Unlisted
+macleods,Macleods Pharmaceuticals Ltd,,no,Unlisted
+cadila\s+pharma,Cadila Pharmaceuticals Ltd,,no,Unlisted; NOT Zydus
+claris|baxter,Claris / Baxter,,no,Claris delisted
+hoechst,Hoechst (legacy),,legacy,Old name in the Sanofi India history; decide yourself whether to add to Sanofi
+boots,Boots (legacy),,legacy,Boots India -> Knoll -> Abbott India history; decide yourself
+cyanamid,Cyanamid (legacy),,legacy,Cyanamid India -> Wyeth -> Pfizer history; decide yourself

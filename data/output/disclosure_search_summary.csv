@@ -1,0 +1,12 @@
+﻿nse_symbol,fy,file,pages,pages_without_text,mentions_NPPA,mentions_DPCO,mentions_overcharging,mentions_DPEA,mentions_pricing_demand,pages_NPPA,pages_DPCO,pages_overcharging,pages_DPEA,pages_pricing_demand,auditor_key_audit_matter_on_pricing,kam_pages
+ASTRAZEN,FY2025-26,ASTRAZEN_FY2025-26.pdf,205,1,yes,yes,yes,NOT FOUND,yes,"50, 126, 166, 174","67, 68, 92","50, 166, 174",,"49, 50, 165, 174",yes,126
+CIPLA,FY2025-26,CIPLA_FY2025-26.pdf,447,6,yes,yes,yes,NOT FOUND,yes,"151, 234, 293, 324, 401","135, 164, 203, 210, 234, 235, 280, 286, 291, 293, 294, 324, 325, 374, 375, 385, 389, 401, 402","234, 293, 324, 325, 401",,"234, 293, 294, 324, 325, 401, 402",yes,"234, 235, 324, 325"
+DRREDDY,FY2025-26,DRREDDY_FY2025-26.htm,180,0,yes,yes,yes,NOT FOUND,yes,"1, 48, 49, 146, 167, 168","48, 49, 64, 167","167, 168, 170",,"49, 167, 168, 174, 175",not found,
+GLAXO,FY2025-26,GLAXO_FY2025-26.pdf,241,4,NOT FOUND,yes,NOT FOUND,yes,yes,,165,,"124, 165, 211","124, 211",not found,
+IPCALAB,FY2025-26,IPCALAB_FY2025-26.pdf,273,3,yes,NOT FOUND,NOT FOUND,NOT FOUND,NOT FOUND,91,,,,,not found,
+LUPIN,FY2025-26,LUPIN_FY2025-26.pdf,494,2,NOT FOUND,yes,NOT FOUND,NOT FOUND,NOT FOUND,,"195, 235, 449",,,,not found,
+PFIZER,FY2025-26,PFIZER_FY2025-26.pdf,121,0,NOT FOUND,yes,yes,NOT FOUND,yes,,"16, 26, 42, 97, 100, 114, 115",114,,114,not found,
+SANOFI,CY2025,SANOFI_CY2025.pdf,223,1,yes,yes,yes,yes,NOT FOUND,210,"191, 209, 210",210,210,,not found,
+SUNPHARMA,FY2025-26,SUNPHARMA_FY2025-26.pdf,344,0,NOT FOUND,yes,NOT FOUND,yes,NOT FOUND,,"64, 67, 70",,"200, 284",,not found,
+WOCKPHARMA,FY2025-26,WOCKPHARMA_FY2025-26.pdf,280,2,yes,yes,yes,NOT FOUND,yes,"47, 119, 183",191,"119, 183",,47,not found,
+ZYDUSLIFE,FY2025-26,ZYDUSLIFE_FY2025-26.pdf,446,0,yes,yes,NOT FOUND,NOT FOUND,NOT FOUND,209,"65, 266, 353, 439",,,,not found,
